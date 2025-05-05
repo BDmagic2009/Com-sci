@@ -43,6 +43,9 @@ onEvent("button14", "click", function( ) {
 onEvent("button15", "click", function( ) {
   setScreen("screen2");
 });
+onEvent("button20", "click", function( ) {
+  setScreen("screen17");
+});
 onEvent("button26", "click", function( ) {
   setScreen("screen17");
 });
@@ -58,16 +61,15 @@ onEvent("label44", "click", function( ) {
 onEvent("button31", "click", function( ) {
   setScreen("screen17");
 });
+onEvent("button36", "click", function( ) {
+  setScreen("screen21");
+});
 onEvent("label51", "click", function( ) {
   setScreen("screen15");
 });
 onEvent("label57", "click", function( ) {
   setScreen("screen5");
 });
-write("LUCIS STORY");
-onEvent("button5", "click", function( ) {
-  setScreen("screen7");
-  stopSound("suspicious_building-227479.mp3");
 });
 onEvent("button7", "click", function( ) {
   setScreen("screen8");
