@@ -2,7 +2,6 @@
 My quarter 4 project for computer science.
 
 playSound("suspicious_building-227479.mp3");
-write("KEVINS STORY");
 onEvent("button1", "click", function( ) {
   setScreen("screen6");
   stopSound("suspicious_building-227479.mp3");
@@ -19,6 +18,9 @@ onEvent("button3", "click", function( ) {
 onEvent("button4", "click", function( ) {
   setScreen("screen4");
 });
+onEvent("button7", "click", function( ) {
+  setScreen("screen20");
+});
 onEvent("button8", "click", function( ) {
   setScreen("screen9");
 });
@@ -26,7 +28,7 @@ onEvent("button9", "click", function( ) {
   setScreen("screen10");
 });
 onEvent("button10", "click", function( ) {
-  setScreen("screen11");
+  setScreen("screen8");
 });
 onEvent("button11", "click", function( ) {
   setScreen("screen12");
@@ -43,14 +45,35 @@ onEvent("button14", "click", function( ) {
 onEvent("button15", "click", function( ) {
   setScreen("screen2");
 });
+onEvent("button18", "click", function( ) {
+  setScreen("screen20");
+});
+onEvent("button19", "click", function( ) {
+  setScreen("screen7");
+});
 onEvent("button20", "click", function( ) {
   setScreen("screen17");
+});
+onEvent("button21", "click", function( ) {
+  setScreen("screen7");
+});
+onEvent("button22", "click", function( ) {
+  setScreen("screen22");
 });
 onEvent("button26", "click", function( ) {
   setScreen("screen17");
 });
+onEvent("button33", "click", function( ) {
+  setScreen("screen8");
+});
+onEvent("button34", "click", function( ) {
+  setScreen("screen11");
+});
 onEvent("button37", "click", function( ) {
   setScreen("screen16");
+});
+onEvent("button38", "click", function( ) {
+  setScreen("screen18");
 });
 onEvent("button30", "click", function( ) {
   setScreen("screen16");
@@ -58,16 +81,43 @@ onEvent("button30", "click", function( ) {
 onEvent("label44", "click", function( ) {
   setScreen("screen5");
 });
+onEvent("button28", "click", function( ) {
+  setScreen("screen25");
+});
+onEvent("button29", "click", function( ) {
+  setScreen("screen10");
+});
 onEvent("button31", "click", function( ) {
   setScreen("screen17");
 });
+onEvent("button35", "click", function( ) {
+  setScreen("screen8");
+});
 onEvent("button36", "click", function( ) {
   setScreen("screen21");
+});
+onEvent("button39", "click", function( ) {
+  setScreen("screen24");
+});
+onEvent("button40", "click", function( ) {
+  setScreen("screen26");
+});
+onEvent("button42", "click", function( ) {
+  setScreen("screen11");
 });
 onEvent("label51", "click", function( ) {
   setScreen("screen15");
 });
 onEvent("label57", "click", function( ) {
+  setScreen("screen5");
+});
+onEvent("label61", "click", function( ) {
+  setScreen("screen15");
+});
+onEvent("label25", "click", function( ) {
+  setScreen("screen5");
+});
+onEvent("label29", "click", function( ) {
   setScreen("screen5");
 });
 });
