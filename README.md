@@ -45,6 +45,12 @@ onEvent("button14", "click", function( ) {
 onEvent("button15", "click", function( ) {
   setScreen("screen2");
 });
+onEvent("button16", "click", function( ) {
+  setScreen("screen20");
+});
+onEvent("button17", "click", function( ) {
+  setScreen("screen47");
+});
 onEvent("button18", "click", function( ) {
   setScreen("screen20");
 });
@@ -60,8 +66,20 @@ onEvent("button21", "click", function( ) {
 onEvent("button22", "click", function( ) {
   setScreen("screen22");
 });
+onEvent("button24", "click", function( ) {
+  setScreen("screen40");
+});
+onEvent("button23", "click", function( ) {
+  setScreen("screen46");
+});
+onEvent("button25", "click", function( ) {
+  setScreen("screen39");
+});
 onEvent("button26", "click", function( ) {
   setScreen("screen17");
+});
+onEvent("button32", "click", function( ) {
+  setScreen("screen28");
 });
 onEvent("button33", "click", function( ) {
   setScreen("screen8");
@@ -78,8 +96,14 @@ onEvent("button38", "click", function( ) {
 onEvent("button30", "click", function( ) {
   setScreen("screen16");
 });
+onEvent("button43", "click", function( ) {
+  setScreen("screen29");
+});
 onEvent("label44", "click", function( ) {
   setScreen("screen5");
+});
+onEvent("button41", "click", function( ) {
+  setScreen("screen27");
 });
 onEvent("button28", "click", function( ) {
   setScreen("screen25");
@@ -105,14 +129,101 @@ onEvent("button40", "click", function( ) {
 onEvent("button42", "click", function( ) {
   setScreen("screen11");
 });
+onEvent("button48", "click", function( ) {
+  setScreen("screen30");
+});
+onEvent("button45", "click", function( ) {
+  setScreen("screen48");
+});
+onEvent("button46", "click", function( ) {
+  setScreen("screen31");
+});
+onEvent("button47", "click", function( ) {
+  setScreen("screen38");
+});
+onEvent("button50", "click", function( ) {
+  setScreen("screen33");
+});
+onEvent("button51", "click", function( ) {
+  setScreen("screen41");
+});
+onEvent("button52", "click", function( ) {
+  setScreen("screen36");
+});
+onEvent("button49", "click", function( ) {
+  setScreen("screen32");
+});
+onEvent("button55", "click", function( ) {
+  setScreen("screen42");
+});
+onEvent("button54", "click", function( ) {
+  setScreen("screen48");
+});
+onEvent("button56", "click", function( ) {
+  setScreen("screen41");
+});
+onEvent("button57", "click", function( ) {
+  setScreen("screen45");
+});
+onEvent("button58", "click", function( ) {
+  setScreen("screen34");
+});
+onEvent("button59", "click", function( ) {
+  setScreen("screen35");
+});
+onEvent("button60", "click", function( ) {
+  setScreen("screen42");
+});
+onEvent("button53", "click", function( ) {
+  setScreen("screen37");
+});
+onEvent("button61", "click", function( ) {
+  setScreen("screen44");
+});
+onEvent("button62", "click", function( ) {
+  setScreen("screen45");
+});
+onEvent("button63", "click", function( ) {
+  setScreen("screen45");
+});
+onEvent("button64", "click", function( ) {
+  setScreen("screen45");
+});
+onEvent("button65", "click", function( ) {
+  setScreen("screen20");
+});
+onEvent("button66", "click", function( ) {
+  setScreen("screen50");
+});
+onEvent("button67", "click", function( ) {
+  setScreen("screen51");
+});
+onEvent("button68", "click", function( ) {
+  open("https://editor.p5js.org/BDmagic2009/sketches/PvyLPF0o7");
+});
 onEvent("label51", "click", function( ) {
   setScreen("screen15");
 });
 onEvent("label57", "click", function( ) {
   setScreen("screen5");
 });
+onEvent("button44", "click", function( ) {
+  setScreen("screen49");
+});
 onEvent("label61", "click", function( ) {
   setScreen("screen15");
+});
+onEvent("label71", "click", function( ) {
+  setScreen("screen15");
+});
+onEvent("label79", "click", function( ) {
+  setScreen("screen5");
+});
+onEvent("label82", "click", function( ) {
+  setScreen("screen5");
+});
+onEvent("label89", "click", function( ) {
+  setScreen("screen5");
 });
 onEvent("label25", "click", function( ) {
   setScreen("screen5");
@@ -120,7 +231,15 @@ onEvent("label25", "click", function( ) {
 onEvent("label29", "click", function( ) {
   setScreen("screen5");
 });
+onEvent("label94", "click", function( ) {
+  setScreen("screen5");
 });
-onEvent("button7", "click", function( ) {
-  setScreen("screen8");
+onEvent("label101", "click", function( ) {
+  setScreen("screen5");
+});
+onEvent("label104", "click", function( ) {
+  setScreen("screen43");
+});
+onEvent("label113", "click", function( ) {
+  setScreen("screen5");
 });
