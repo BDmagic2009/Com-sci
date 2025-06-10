@@ -1,6 +1,7 @@
 # Com-sci
 My quarter 4 project for computer science.
 
+
 playSound("suspicious_building-227479.mp3");
 onEvent("button1", "click", function( ) {
   setScreen("screen6");
@@ -197,9 +198,13 @@ onEvent("button66", "click", function( ) {
 });
 onEvent("button67", "click", function( ) {
   setScreen("screen51");
+  playSound("https://pixabay.com/sound-effects/scream-85294/");
 });
 onEvent("button68", "click", function( ) {
-  open("https://editor.p5js.org/BDmagic2009/sketches/PvyLPF0o7");
+  setScreen("screen52");
+});
+onEvent("button69", "click", function( ) {
+  open("http://172.27.67.33/~braiden/TheHidden/index.html");
 });
 onEvent("label51", "click", function( ) {
   setScreen("screen15");
@@ -243,3 +248,4 @@ onEvent("label104", "click", function( ) {
 onEvent("label113", "click", function( ) {
   setScreen("screen5");
 });
+
